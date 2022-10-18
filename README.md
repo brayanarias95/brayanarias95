@@ -9,8 +9,7 @@ bariasduran@gmail.com
 linkedin:
 https://www.linkedin.com/in/brayan-sneider-arias-duran-46056a220/
 
-<!---
 
 hacking
 https://www.youtube.com/watch?v=p2FEkKiEPlU&t=94s
---->
+
